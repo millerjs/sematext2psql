@@ -1,5 +1,13 @@
 # sematext2psql
 
+![2022-10-24 08 55 56](https://user-images.githubusercontent.com/4062890/197543108-f9ad62f3-8690-4536-b9ab-3159a0b869c8.gif)
+
+## download
+
+Download the latest release here: https://github.com/millerjs/sematext2psql/releases/latest
+
+## usage
+
 ```
 $ sematext2psql -h
 
